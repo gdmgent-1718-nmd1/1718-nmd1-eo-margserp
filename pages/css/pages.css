@@ -9,6 +9,8 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+    width: 55%;
+    margin: 0 auto;
 }
 
 img {
